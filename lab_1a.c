@@ -11,5 +11,5 @@ int main()
     
     printf( Hopefully, this lab is not too difficult.\n\n");
            
-    return 0;
+    return 37.5;
 }
